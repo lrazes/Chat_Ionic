@@ -1,0 +1,7 @@
+{
+  "name": "Chat_Ionic",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
